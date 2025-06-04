@@ -9,4 +9,4 @@ Christian Fernando Ormachea - ormacheachristianf@gmail.com
 Descripcion de las actividades realizadas en el archivo Docx 'Busqueda y Ordenamiento en algoritmos en Python'.
 Ejemplos de casos practicos en los archivos .py del directorio 'Practicas'.
 
-LINK AL VIDEO DE YOUTUBE = 
+LINK AL VIDEO DE YOUTUBE = https://youtu.be/MZJMgwtW9B4
