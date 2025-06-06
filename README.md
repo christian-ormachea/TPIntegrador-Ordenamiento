@@ -12,7 +12,10 @@ Ejemplos de casos practicos en los archivos .py del directorio 'Practicas'.
 LINK AL VIDEO DE YOUTUBE = https://youtu.be/MZJMgwtW9B4
 
 Objetivos del trabajo
-Objetivos del trabajo
+
 • Aplicar todos los conceptos aprendidos
+
 • Demostrar la comprension del tema en la practica
+
 • Aprender a trabajar en conjunto
+
